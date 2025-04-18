@@ -1,0 +1,4 @@
+/target
+*.ts
+*.py
+.DS_Store
