@@ -2785,8 +2785,8 @@ dependencies = [
 ]
 
 [[package]]
-name = "parti_video_gui"
-version = "0.1.0"
+name = "parti_vod_downloader"
+version = "0.0.3"
 dependencies = [
  "chrono",
  "eframe",

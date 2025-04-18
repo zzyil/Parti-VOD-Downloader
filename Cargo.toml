@@ -1,6 +1,6 @@
 [package]
 name = "parti_vod_downloader"
-version = "0.0.3"
+version = "0.0.4"
 edition = "2021"
 build = "build.rs"
 
@@ -27,9 +27,9 @@ embed-resource = "2"
 
 [package.metadata.bundle]
 name = "Parti VOD Downloader"
-identifier = "com.zzy_gg.partivoddownloader"
+identifier = "io.github.zzyil.Parti-VOD-Downloader"
 icon = ["assets/Icon.icns", "assets/Icon.ico", "assets/Icon.png"]
-version = "0.0.3"
+version = "0.0.4"
 short_description = "Download and convert Parti.com VODs/videos"
 long_description = """
 A modern GUI app designed to download and convert Parti.com VODs/videos into various formats, such as mp4, mp3, webm & more. Requires ffmpeg to work.
